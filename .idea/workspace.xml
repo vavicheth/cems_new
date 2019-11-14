@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c413831b-d560-4741-8285-c8bfa7d3dd41" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/users/lock_screen.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/media/avatars/avatar1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/media/avatars/avatar1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/media/avatars/avatar10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/media/avatars/avatar10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/media/avatars/avatar11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/media/avatars/avatar11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/media/avatars/avatar12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/media/avatars/avatar12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/media/avatars/avatar13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/media/avatars/avatar13.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/media/avatars/avatar14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/media/avatars/avatar14.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/media/avatars/avatar15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/media/avatars/avatar15.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/media/avatars/avatar16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/media/avatars/avatar16.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/media/avatars/avatar2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/media/avatars/avatar2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/media/avatars/avatar3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/media/avatars/avatar3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/media/avatars/avatar4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/media/avatars/avatar4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/media/avatars/avatar5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/media/avatars/avatar5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/media/avatars/avatar6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/media/avatars/avatar6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/media/avatars/avatar7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/media/avatars/avatar7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/media/avatars/avatar8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/media/avatars/avatar8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/media/avatars/avatar9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/media/avatars/avatar9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/backend.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/backend.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,8 +23,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/layouts/backend.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="314" column="126" selection-start-line="314" selection-start-column="126" selection-end-line="314" selection-end-column="126" />
+            <state relative-caret-position="263">
+              <caret line="72" column="128" selection-start-line="72" selection-start-column="33" selection-end-line="72" selection-end-column="128" />
             </state>
           </provider>
         </entry>
@@ -58,12 +42,12 @@
         <entry file="file://$PROJECT_DIR$/resources/views/examples/plugin_helper.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
@@ -72,12 +56,42 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/users/lock_screen.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="914">
+              <caret line="146" column="65" selection-start-line="146" selection-start-column="65" selection-end-line="146" selection-end-column="65" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#6883#6889#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="blade file" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>dashb</find>
       <find>Adam</find>
+      <find>lock</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -90,6 +104,8 @@
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/resources/views/layouts/backend.blade.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/resources/views/users/lock_screen.blade.php" />
       </list>
     </option>
   </component>
@@ -204,13 +220,56 @@
             <path>
               <item name="cems_new" type="b2602c69:ProjectViewProjectNode" />
               <item name="cems_new" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cems_new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cems_new" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cems_new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cems_new" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cems_new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cems_new" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cems_new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cems_new" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cems_new" type="b2602c69:ProjectViewProjectNode" />
               <item name="cems_new" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cems_new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cems_new" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cems_new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cems_new" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cems_new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cems_new" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -261,15 +320,16 @@
       <updated>1573648446576</updated>
       <workItem from="1573648450992" duration="4743000" />
       <workItem from="1573656725884" duration="2193000" />
-      <workItem from="1573706215479" duration="2186000" />
+      <workItem from="1573706215479" duration="5482000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9122000" />
+    <option name="totallyTimeSpent" value="12418000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12579957" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -321,17 +381,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/backend.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="314" column="126" selection-start-line="314" selection-start-column="126" selection-end-line="314" selection-end-column="126" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/examples/plugin_helper.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -339,6 +392,52 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/backend.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="72" column="128" selection-start-line="72" selection-start-column="33" selection-end-line="72" selection-end-column="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/laravel.app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1844">
+          <caret line="16024" column="91" selection-start-line="16024" selection-start-column="87" selection-end-line="16024" selection-end-column="91" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.mix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/users/lock_screen.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="914">
+          <caret line="146" column="65" selection-start-line="146" selection-start-column="65" selection-end-line="146" selection-end-column="65" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#6883#6889#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -19,3 +19,4 @@ Route::match(['get', 'post'], '/dashboard', function(){
 Route::view('/examples/plugin-helper', 'examples.plugin_helper');
 Route::view('/examples/plugin-init', 'examples.plugin_init');
 Route::view('/examples/blank', 'examples.blank');
+Route::view('/lock_screen', 'users.lock_screen');
